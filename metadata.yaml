@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25943'
     url: http://www.gutenberg.org/2009/agents/25943
     wikipedia: https://en.wikipedia.org/wiki/John_Cecil_Clay
+covers:
+- cover_type: archival
+  image_path: 65630-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicholson, Meredith
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65630#Zelda-Dameron
 gutenberg_issued: '2021-06-16'
 gutenberg_type: Text
 identifiers:
