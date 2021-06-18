@@ -1,0 +1,31 @@
+_repo: Zelda-Dameron_65630
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Clay, John Cecil
+    birthdate: 1875
+    deathdate: 1930
+    gutenberg_agent_id: '25943'
+    url: http://www.gutenberg.org/2009/agents/25943
+    wikipedia: https://en.wikipedia.org/wiki/John_Cecil_Clay
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2021-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zelda Dameron
+url: http://www.gutenberg.org/ebooks/65630
